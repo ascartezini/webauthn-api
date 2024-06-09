@@ -1,4 +1,4 @@
-module github.com/ascartezini
+module github.com/ascartezini/webauthn-api
 
 go 1.22.3
 
